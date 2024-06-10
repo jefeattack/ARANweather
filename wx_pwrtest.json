@@ -1,0 +1,78 @@
+[                                                                                                                
+    {                                                                                                            
+        "location": "WilsonHall",                                                                                
+        "weather": [                                                                                             
+            {                                                                                                    
+                "Humidity": 30,                                                                                  
+                "KineticEnergy": "0000.00",                                                                      
+                "MORVisibility": "20000",                                                                        
+                "ParticlesDetected": "00000",                                                                    
+                "Pressure": 29.992,                                                                              
+                "RadarReflectivity": "-9.999",                                                                   
+                "RainAbsolute": "0227.89",                                                                       
+                "RainAccumulated": "0227.89",                                                                    
+                "RainIntensity": "0000.000",                                                                     
+                "RainRate": 0.0,                                                                                 
+                "SnowDepthIntensity": "0000.00",                                                                 
+                "Temperature": 85.1,                                                                             
+                "WeatherCode4677": "00",                                                                         
+                "WeatherCode4678": "NP",                                                                         
+                "WeatherCode4680": "00",                                                                         
+                "WeatherCodeNWS": "C",                                                                           
+                "WindDirection": 26,                                                                             
+                "WindSpeed": 6                                                                                   
+            }                                                                                                    
+        ], 
+        "power": [                                                                                               
+            {                                                                                                    
+                "Load Amps": 22.240000000000002,                                                                 
+                "Load VA": 2650.0,                                                                               
+                "Load Watts": 2460.0                                                                             
+            }                                                                                                    
+        ]                                                                                                        
+    },                                                                                                           
+    {                                                                                                            
+        "location": "AgronomyFarm",                                                                              
+        "weather": [                                                                                             
+            {                                                                                                    
+                "DrizzleParticles": 0,                                                                           
+                "Drops0.5-1.0mm": 0,                                                                             
+                "Drops1.0-1.5mm": 0,                                                                             
+                "Drops1.5-2.0mm": 0,                                                                             
+                "Drops2.0-2.5mm": 0,                                                                             
+                "Drops2.5-3.0mm": 0,                                                                             
+                "Drops3.0-3.5mm": 0,                                                                             
+                "Drops3.5-4.0mm": 0,                                                                             
+                "Drops4.0-4.5mm": 0,                                                                             
+                "Drops4.5-5.0mm": 0,                                                                             
+                "Drops5.0-5.5mm": 0,                                                                             
+                "Drops<0.5mm": 0,                                                                                
+                "Drops>5.5mm": 0,
+                "HailParticles": 0,                                                                              
+                "Humidity": 34,                                                                                  
+                "PrecipitationCumulative": 9.62598400197806,                                                     
+                "PrecipitationDifferential": 0.0,                                                                
+                "PrecipitationIntensityHr": 0.0,                                                                 
+                "PrecipitationIntensityMin": 0.0,                                                                
+                "PrecipitationParticles": 0,                                                                     
+                "PrecipitationType": 0,                                                                          
+                "Pressure": 28.87,                                                                               
+                "RainRate": 0.0,                                                                                 
+                "SensorHeatingTemperature": 61.03815460205078,                                                   
+                "SnowParticles": 0,                                                                              
+                "Temperature": 77.3,                                                                             
+                "TotalDrops": 0,                                                                                 
+                "WeatherType": 0,                                                                                
+                "WindDirection": 75,                                                                             
+                "WindSpeed": 8                                                                                   
+            }                                                                                                    
+        ],                                                                                                       
+        "power": [                                                                                               
+            {                                                                                                    
+                "Load Amps": 17.709999999999997,                                                                 
+                "Load VA": 2180.0,                                                                               
+                "Load Watts": 1880.0                                                                             
+            }                                                                                                    
+        ]                                                                                                        
+    }                                                                                                            
+] 

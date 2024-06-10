@@ -1,0 +1,32 @@
+{
+	"location" : "WilsonHall",
+	"weather" : [
+		{
+			"Humidity": 29,
+			"KineticEnergy": "0000.00",
+			"MORVisibility": "20000",
+			"ParticlesDetected": "00000",
+			"Pressure": 30.111,
+			"RadarReflectivity": "-9.999",
+			"RainAbsolute": "0227.89",
+			"RainAccumulated": "0227.89",
+			"RainIntensity": "0000.000",
+			"RainRate": 0.0,
+			"SnowDepthIntensity": "0000.00",
+			"Temperature": 85.1,
+			"WeatherCode4677": "00",
+			"WeatherCode4678": "NP",
+			"WeatherCode4680": "00",
+			"WeatherCodeNWS": "C",
+			"WindDirection": 325,
+			"WindSpeed": 3
+		}
+	],
+    "power": [
+		{
+			"Load Amps": 22.18,
+			"Load VA": 2650.0,
+			"Load Watts": 2480.0
+		}
+	]
+	}
